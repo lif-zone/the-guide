@@ -1,7 +1,7 @@
 {
-  "name": "lif-basic",
-  "version": "26.5.20",
-  "description": "basic shalom guide to the world",
+  "name": "the-guide",
+  "version": "2026.9.28",
+  "description": "The Guide HTURA",
   "author": {
     "name": "Jungo Publishing Labs"
   },
@@ -15,6 +15,6 @@
     "style.css"
   ],
   "scripts": {
-    "serve": "npx lif-kernel serve.js -p 4205"
+    "serve": "npx lif-kernel serve.js -p 1809"
   }
 }
